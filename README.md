@@ -16,7 +16,7 @@
 <p align="left">
 🎓 INGENIERO DE SISTEMAS
 
-😉 *"La tecnología abre caminos, pero es la valentía la que nos impulsa a recorrerlos."*
+😉 **_"La tecnología abre caminos, pero es la valentía la que nos impulsa a recorrerlos."_**
 
 
 
