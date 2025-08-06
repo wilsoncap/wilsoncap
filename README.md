@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Wilson Capacho ✨ </h1> 
+<h1 align="center"> ✨ La tecnología abre caminos, pero es la valentía la que nos impulsa a recorrerlos ✨ </h1> 
 
 <p align="left">
 <a href="[https://linkedin.com/in/unsimpledev](https://www.linkedin.com/in/wilson-capacho-carmona-a593a1125/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
@@ -14,10 +14,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO DE SISTEMAS
-
-😉 **_"La tecnología abre caminos, pero es la valentía la que nos impulsa a recorrerlos."_**
-
+🎓 WILSON CAPACHO - INGENIERO DE SISTEMAS | DESARROLLADOR FULLSTACK
 
 
 💻 Proactivo, autodidacta y apasionado por el desarrollo web. Más de 2 años de experiencia creando soluciones eficientes y escalables con Laravel, JavaScript, Vue.js y PostgreSQL. Enfocado en buenas prácticas, mejora continua y calidad del software.
