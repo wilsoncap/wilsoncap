@@ -28,7 +28,7 @@
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
-### 🖥️ Frontend
+🖥️ Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,pug,sass,tailwind,bootstrap,vuetify,materialui&theme" />
 </p>
