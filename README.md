@@ -15,6 +15,7 @@
 🎓 INGENIERO EN INFORMÁTICA
 
 💻 Desarrollador Full Stack proactivo, autodidacta y apasionado por el desarrollo web. Tengo más de 2 años de experiencia creando soluciones eficientes y escalables con tecnologías como Laravel, JavaScript, Vue.js y PostgreSQL.
+    He desarrollado módulos para ERPS, trabajado en integraciones con APIs REST y SOAP, y contribuido a mejorar la calidad del código en equipos de trabajo. Me destaco por mi enfoque en buenas prácticas, aprendizaje continuo y compromiso con la calidad del software.
 
 📝 roles en el ámbito: desarrollador...programador freelance... y en un futuro quién sabe ☺️
 
