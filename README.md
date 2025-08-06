@@ -3,13 +3,16 @@
 <p align="left">
 <a href="[https://linkedin.com/in/unsimpledev](https://www.linkedin.com/in/wilson-capacho-carmona-a593a1125/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:wiston.98@htomail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="[https://wa.me/573001112233](https://wa.me/message/QOFOZYWCNT36N1)" target="blank">
+  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+</a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 INGENIERO DE SISTEMAS
 
 💻 Desarrollador Full Stack proactivo, autodidacta y apasionado por el desarrollo web. Tengo más de 2 años de experiencia creando soluciones eficientes y escalables con tecnologías como Laravel, JavaScript, Vue.js y PostgreSQL.
     He desarrollado módulos para ERPS, trabajado en integraciones con APIs REST y SOAP, y contribuido a mejorar la calidad del código en equipos de trabajo. Me destaco por mi enfoque en buenas prácticas, aprendizaje continuo y compromiso con la calidad del software.
