@@ -16,8 +16,16 @@
 <p align="left">
 🎓 INGENIERO DE SISTEMAS
 
-💻 Desarrollador Full Stack proactivo, autodidacta y apasionado por el desarrollo web. Tengo más de 2 años de experiencia creando soluciones eficientes y escalables con tecnologías como Laravel, JavaScript, Vue.js y PostgreSQL.
-    He desarrollado módulos para ERPs, trabajado en integraciones con APIs REST y SOAP, y contribuido a mejorar la calidad del código en equipos de trabajo. Me adapto rápidamente a nuevos entornos, soy abierto al cambio y al aprendizaje continuo. Me destaco por mi       enfoque en buenas prácticas, mejora constante y compromiso con la calidad del software.
+😉 *"La tecnología abre caminos, pero es la valentía la que nos impulsa a recorrerlos."*
+
+
+
+💻 Proactivo, autodidacta y apasionado por el desarrollo web. Más de 2 años de experiencia creando soluciones eficientes y escalables con Laravel, JavaScript, Vue.js y PostgreSQL. Enfocado en buenas prácticas, mejora continua y calidad del software.
+
+  He desarrollado módulos para ERPs, trabajado en integraciones con APIs REST y SOAP, y contribuido a mejorar la calidad del código en equipos de trabajo. Me adapto rápidamente a nuevos entornos, soy abierto al cambio y al aprendizaje continuo.
+
+  Me entusiasma seguir creciendo profesionalmente y participar en proyectos donde pueda generar impacto real.
+  
 
 📝 roles en el ámbito: desarrollador fullstack...programador freelance... y en un futuro quién sabe ☺️
 
