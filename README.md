@@ -24,10 +24,34 @@
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
+### 🖥️ Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,dart,flutter,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,postman,vscode,bash,bootstrap,laravel,mysql,netlify,nextjs,notion,postgres,prisma,pug,react,sass,tailwind,ts,vue,vuetify,figma&theme" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,pug,sass,tailwind,bootstrap,vuetify,materialui&theme" />
+</p>
+
+### 📱 Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter&theme" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,laravel,prisma&theme" />
+</p>
+
+### 🗄️ Bases de Datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase&theme" />
+</p>
+
+### 🧪 Herramientas de Desarrollo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,bash,notion,netlify&theme" />
+</p>
+
+### 🎨 Diseño
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma&theme" />
 </p>
 <br>
 <!-------------------------->
